@@ -1,0 +1,23 @@
+#page {
+    background-color: #CDF0EA;
+    color: black;
+}
+#myImage{
+    border-radius: 100% 100% 100% 100%;
+}
+hr{
+    width: 3%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: gray;
+}
+h1, h2{
+    color: #346751;
+    font-family: Arial;
+}
+
+a:hover{
+    color: crimson;
+}
+
+
